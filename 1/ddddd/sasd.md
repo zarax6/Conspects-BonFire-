@@ -1,1 +1,2 @@
 ![[Pasted image 20251003112718.png]]![[Pasted image 20251003112720.png]]![[Снимок экрана (1).png]]![[Pasted image 20251003112720.png]]
+![[Pasted image 20251015092614.png]]
