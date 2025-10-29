@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"594fc94b491c32d7","x":-880,"y":-320,"width":1197,"height":572,"color":"#e90756","type":"group","label":"Основа"},
-		{"id":"264d9ec322715300","x":-860,"y":-57,"width":250,"height":60,"color":"1","type":"text","text":"Материнская плата"},
-		{"id":"e4bb6d9fde3f4a28","x":-482,"y":123,"width":250,"height":59,"color":"#e90756","type":"text","text":"Программная совместимость"},
-		{"id":"1295c545eda4b0d3","x":-482,"y":-240,"width":250,"height":60,"color":"6","type":"text","text":"Физический\nинтерфейс"},
-		{"id":"f1db7fa2fd6d4d63","x":47,"y":-300,"width":250,"height":60,"color":"6","type":"text","text":"ОЗУ"},
-		{"id":"d277e6f6e189f560","x":47,"y":-180,"width":250,"height":60,"color":"6","type":"text","text":"ПЗУ\n"},
-		{"id":"b56817839a542d1d","x":47,"y":122,"width":250,"height":60,"color":"#e90756","type":"text","text":"Периферия (PCI)"},
-		{"id":"4e95635ddb07bbfa","x":-153,"y":182,"width":140,"height":50,"type":"text","text":"**Версия PCI**"},
-		{"id":"c56810cd2817a7ec","x":47,"y":-27,"width":250,"height":60,"color":"6","type":"text","text":"Процессор"},
-		{"id":"9a692f3966366bda","x":774,"y":10,"width":250,"height":60,"color":"#00ffee","type":"text","text":"Корпус"},
-		{"id":"00c574698059ef56","x":774,"y":-220,"width":250,"height":60,"color":"#00ffee","type":"text","text":"БП"},
-		{"id":"a3ce614282c09e57","x":774,"y":-100,"width":250,"height":60,"color":"#00ffee","type":"text","text":"Охлад"},
-		{"id":"dab586213de5f649","x":480,"y":122,"width":250,"height":60,"color":"#e90756","type":"text","text":"Физическая вместимость"}
+		{"id":"594fc94b491c32d7","type":"group","x":-880,"y":-320,"width":1197,"height":572,"color":"#e90756","label":"Основа"},
+		{"id":"264d9ec322715300","type":"text","text":"Материнская плата","x":-860,"y":-57,"width":250,"height":60,"color":"1"},
+		{"id":"e4bb6d9fde3f4a28","type":"text","text":"Программная совместимость","x":-482,"y":123,"width":250,"height":59,"color":"#e90756"},
+		{"id":"1295c545eda4b0d3","type":"text","text":"Физический\nинтерфейс","x":-482,"y":-240,"width":250,"height":60,"color":"6"},
+		{"id":"f1db7fa2fd6d4d63","type":"text","text":"ОЗУ","x":47,"y":-300,"width":250,"height":60,"color":"6"},
+		{"id":"d277e6f6e189f560","type":"text","text":"ПЗУ\n","x":47,"y":-180,"width":250,"height":60,"color":"6"},
+		{"id":"b56817839a542d1d","type":"text","text":"Периферия (PCI)","x":47,"y":122,"width":250,"height":60,"color":"#e90756"},
+		{"id":"4e95635ddb07bbfa","type":"text","text":"**Версия PCI**","x":-153,"y":182,"width":140,"height":50,"color":"3"},
+		{"id":"c56810cd2817a7ec","type":"text","text":"Процессор","x":47,"y":-27,"width":250,"height":60,"color":"6"},
+		{"id":"9a692f3966366bda","type":"text","text":"Корпус","x":774,"y":10,"width":250,"height":60,"color":"#00ffee"},
+		{"id":"00c574698059ef56","type":"text","text":"БП","x":774,"y":-220,"width":250,"height":60,"color":"#00ffee"},
+		{"id":"a3ce614282c09e57","type":"text","text":"Охлад","x":774,"y":-100,"width":250,"height":60,"color":"#00ffee"},
+		{"id":"dab586213de5f649","type":"text","text":"Физическая вместимость","x":480,"y":122,"width":250,"height":60,"color":"#e90756"}
 	],
 	"edges":[
 		{"id":"d94044eddbc73108","fromNode":"264d9ec322715300","fromSide":"right","toNode":"1295c545eda4b0d3","toSide":"left","color":"6"},
