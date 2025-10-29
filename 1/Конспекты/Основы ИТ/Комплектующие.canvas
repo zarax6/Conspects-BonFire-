@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"594fc94b491c32d7","x":-880,"y":-320,"width":1197,"height":572,"color":"#e90756","type":"group","label":"Основа"},
+		{"id":"264d9ec322715300","x":-860,"y":-57,"width":250,"height":60,"color":"1","type":"text","text":"Материнская плата"},
+		{"id":"e4bb6d9fde3f4a28","x":-482,"y":123,"width":250,"height":59,"color":"#e90756","type":"text","text":"Программная совместимость"},
+		{"id":"1295c545eda4b0d3","x":-482,"y":-240,"width":250,"height":60,"color":"6","type":"text","text":"Физический\nинтерфейс"},
+		{"id":"f1db7fa2fd6d4d63","x":47,"y":-300,"width":250,"height":60,"color":"6","type":"text","text":"ОЗУ"},
+		{"id":"d277e6f6e189f560","x":47,"y":-180,"width":250,"height":60,"color":"6","type":"text","text":"ПЗУ\n"},
+		{"id":"b56817839a542d1d","x":47,"y":122,"width":250,"height":60,"color":"#e90756","type":"text","text":"Периферия (PCI)"},
+		{"id":"4e95635ddb07bbfa","x":-153,"y":182,"width":140,"height":50,"type":"text","text":"**Версия PCI**"},
+		{"id":"c56810cd2817a7ec","x":47,"y":-27,"width":250,"height":60,"color":"6","type":"text","text":"Процессор"},
+		{"id":"9a692f3966366bda","x":774,"y":10,"width":250,"height":60,"color":"#00ffee","type":"text","text":"Корпус"},
+		{"id":"00c574698059ef56","x":774,"y":-220,"width":250,"height":60,"color":"#00ffee","type":"text","text":"БП"},
+		{"id":"a3ce614282c09e57","x":774,"y":-100,"width":250,"height":60,"color":"#00ffee","type":"text","text":"Охлад"},
+		{"id":"dab586213de5f649","x":480,"y":122,"width":250,"height":60,"color":"#e90756","type":"text","text":"Физическая вместимость"}
+	],
+	"edges":[
+		{"id":"d94044eddbc73108","fromNode":"264d9ec322715300","fromSide":"right","toNode":"1295c545eda4b0d3","toSide":"left","color":"6"},
+		{"id":"989a6378116eddcb","fromNode":"264d9ec322715300","fromSide":"right","toNode":"e4bb6d9fde3f4a28","toSide":"left","color":"#e90756"},
+		{"id":"e3f4b70c1f8c949b","fromNode":"1295c545eda4b0d3","fromSide":"right","toNode":"f1db7fa2fd6d4d63","toSide":"left","color":"6"},
+		{"id":"1e1683a0cace9b96","fromNode":"1295c545eda4b0d3","fromSide":"right","toNode":"d277e6f6e189f560","toSide":"left","color":"6"},
+		{"id":"bd13210f8e50b1c5","fromNode":"1295c545eda4b0d3","fromSide":"right","toNode":"b56817839a542d1d","toSide":"left","color":"6"},
+		{"id":"72824f29f13633a8","fromNode":"1295c545eda4b0d3","fromSide":"right","toNode":"c56810cd2817a7ec","toSide":"left","color":"6"},
+		{"id":"542f8c94c122e594","fromNode":"e4bb6d9fde3f4a28","fromSide":"right","toNode":"4e95635ddb07bbfa","toSide":"left","color":"#e90756"},
+		{"id":"6cbb2a3733976895","fromNode":"4e95635ddb07bbfa","fromSide":"right","toNode":"b56817839a542d1d","toSide":"left","color":"#e90756"},
+		{"id":"3a170f5438ee8d6f","fromNode":"e4bb6d9fde3f4a28","fromSide":"right","toNode":"b56817839a542d1d","toSide":"left","color":"#e90756"},
+		{"id":"7132ea46e733c510","fromNode":"594fc94b491c32d7","fromSide":"right","toNode":"dab586213de5f649","toSide":"left","color":"#e90756"},
+		{"id":"737be489aed51b0d","fromNode":"dab586213de5f649","fromSide":"top","toNode":"9a692f3966366bda","toSide":"left","color":"#00ffee"},
+		{"id":"d22d9943a09b71e1","fromNode":"dab586213de5f649","fromSide":"top","toNode":"a3ce614282c09e57","toSide":"left","color":"#00ffee"},
+		{"id":"3762bfc1ce085f27","fromNode":"dab586213de5f649","fromSide":"top","toNode":"00c574698059ef56","toSide":"left","color":"#00ffee"}
+	]
+}
