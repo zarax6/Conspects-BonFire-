@@ -1,4 +1,4 @@
-# Hangman.py 
+ # Hangman.py 
 
 ```python
 #Импорт библиотек в самом начале кода
