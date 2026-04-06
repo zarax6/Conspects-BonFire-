@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/Конспекты/Рефлексия/02_04_26 ИП.md",
+                "file": "1/Конспекты/Информатика/Архив.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_04_26 ИП"
+              "title": "Архив"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +182,12 @@
   },
   "active": "e690e2e0a4c01ce1",
   "lastOpenFiles": [
-    "1/Конспекты/Рефлексия/12_03_26 Конф.W10.md",
+    "1/Конспекты/Информатика/Файлы  ̶Э̶п̶ш̶т̶е̶й̶н̶а̶.md",
+    "1/Конспекты/Информатика/Архив.md",
+    "1/images/Pasted image 20260406134850.png",
+    "1/images/Pasted image 20260406134841.png",
     "1/Конспекты/Рефлексия/02_04_26 ИП.md",
+    "1/Конспекты/Рефлексия/12_03_26 Конф.W10.md",
     "1/Конспекты/Индивидуальный проект/BoBiK Widgets/Ретроспектива.md",
     "1/Конспекты/Индивидуальный проект/BoBiK Widgets/Sprint 1 (12.1.26 - 6.2.26)/To-Do List.md",
     "1/Конспекты/Конфигурация W10/WinGet.md",
@@ -216,11 +221,7 @@
     "1/images/Pasted image 20251107133727.png",
     "1/images/Pasted image 20251106124214.png",
     "1/images/Pasted image 20251031093455.png",
-    "1/images/Pasted image 20251031093209.png",
-    "1/images/Pasted image 20251022133525.png",
     "1/ddddd/Задания.md",
-    "1/Конспекты/Python/Код по ЕГЭ-2.md",
-    "1/Конспекты/Python/Циклы.md",
     "1/Конспекты/Основы ИТ/Untitled"
   ]
 }
