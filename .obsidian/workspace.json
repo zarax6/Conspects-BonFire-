@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/Конспекты/Информатика/Архив.md",
+                "file": "1/Конспекты/Основы ИТ/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архив"
+              "title": "Linux"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -155,10 +155,14 @@
             "id": "ede3d41643f3715c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "1/Конспекты/Люди/Алан Тьюринг.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алан Тьюринг"
             }
           }
         ],
@@ -166,33 +170,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "deef7c77c53bad25",
+  "active": "ede3d41643f3715c",
   "lastOpenFiles": [
+    "1/Конспекты/Основы ИТ/Linux.md",
+    "1/Конспекты/Рефлексия/12_03_26 Конф.W10.md",
+    "1/Конспекты/Рефлексия/06_03_26 ИП 2 пара.md",
+    "1/Конспекты/Рефлексия/02_04_26 ИП.md",
+    "1/Конспекты/Конфигурация W10/WinGet.md",
     "1/Конспекты/Информатика/Файлы  ̶Э̶п̶ш̶т̶е̶й̶н̶а̶.md",
     "1/Конспекты/Информатика/Архив.md",
+    "1/Конспекты/Индивидуальный проект/BoBiK Widgets/Ретроспектива.md",
     "1/images/Pasted image 20260406134850.png",
     "1/images/Pasted image 20260406134841.png",
-    "1/Конспекты/Рефлексия/02_04_26 ИП.md",
-    "1/Конспекты/Рефлексия/12_03_26 Конф.W10.md",
-    "1/Конспекты/Индивидуальный проект/BoBiK Widgets/Ретроспектива.md",
-    "1/Конспекты/Индивидуальный проект/BoBiK Widgets/Sprint 1 (12.1.26 - 6.2.26)/To-Do List.md",
-    "1/Конспекты/Конфигурация W10/WinGet.md",
-    "1/Конспекты/Рефлексия/06_03_26 ИП 2 пара.md",
-    "1/Конспекты/Основы ИТ/Linux.md",
     "1/Конспекты/Python/Исключения.md",
     "1/Конспекты/Настройка рабочего пространства.md",
     "1/Конспекты/Основы ИТ/Создание первой виртуальной машины.md",
@@ -222,6 +224,7 @@
     "1/images/Pasted image 20251106124214.png",
     "1/images/Pasted image 20251031093455.png",
     "1/ddddd/Задания.md",
+    "1/Конспекты/Python/Код по ЕГЭ-2.md",
     "1/Конспекты/Основы ИТ/Untitled"
   ]
 }
