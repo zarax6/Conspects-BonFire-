@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unix",
+                "query": "А",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ede3d41643f3715c",
+  "active": "9c24f6d6a12d7fb7",
   "lastOpenFiles": [
     "1/Конспекты/Основы ИТ/Linux.md",
     "1/Конспекты/Рефлексия/12_03_26 Конф.W10.md",
