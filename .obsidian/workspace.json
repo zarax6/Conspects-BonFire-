@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f64837ee91f80591",
+        "id": "686541ef56392ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "e690e2e0a4c01ce1",
+            "id": "79fcc1cad77ba10e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/Конспекты/Основы ИТ/Linux.md",
+                "file": "1/Конспекты/Люди/Алексей Пажитнов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "4e2cfe811d323526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1/Конспекты/Основы ИТ/Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Алексей Пажитнов"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "А",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,30 +71,40 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "f8bef64de340bcb1",
     "type": "split",
     "children": [
       {
-        "id": "d09e3cb96554c2e2",
+        "id": "30367b1aa1d9a4d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5b2b14e739dd02",
+            "id": "384510f946d06cc9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "e85d0a09baed5a36",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/Конспекты/Python/Условный оператор if. Оператор ветвления..md",
+                "file": "1/Конспекты/Люди/Алексей Пажитнов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Условный оператор if. Оператор ветвления."
+              "title": "Обратные ссылки для Алексей Пажитнов"
             }
           },
           {
-            "id": "91d067011632608c",
+            "id": "35403258a394ea0f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/Конспекты/Основы ИТ/Процессоры.md",
+                "file": "1/Конспекты/Люди/Алексей Пажитнов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Процессоры"
+              "title": "Исходящие ссылки из Алексей Пажитнов"
             }
           },
           {
-            "id": "6174e8f37d9d7f56",
+            "id": "61b5b49ccafcd9d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,44 +143,30 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "93509da065d763fa",
+            "id": "565d97e1888b0a33",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1/Конспекты/Основы ИТ/Процессоры.md",
+                "file": "1/Конспекты/Люди/Алексей Пажитнов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Процессоры"
-            }
-          },
-          {
-            "id": "ede3d41643f3715c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1/Конспекты/Люди/Алан Тьюринг.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Алан Тьюринг"
+              "title": "Структура Алексей Пажитнов"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,48 +179,47 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4e2cfe811d323526",
+  "active": "79fcc1cad77ba10e",
   "lastOpenFiles": [
-    "1/Конспекты/Информатика/Файлы  ̶Э̶п̶ш̶т̶е̶й̶н̶а̶.md",
-    "1/Конспекты/Основы ИТ/Docker.md",
+    "1/Конспекты/Люди/Фил Кац.md",
+    "1/Конспекты/Люди/Алексей Пажитнов.md",
+    "1/Конспекты/Люди/Джон Бэкус.md",
+    "1/images/Pasted image 20260615184957.png",
+    "1/Конспекты/Коды/Без названия.md",
+    "1/Конспекты/Рефлексия/05_06_26.md",
+    "1/Конспекты/Коды/58. Длина последнего слова.md",
+    "1/Конспекты/Коды/70. Шаги лестницы.md",
+    "1/Конспекты/Коды/Принципы ООП.md",
+    "1/Конспекты/Коды/Опорное целое число.md",
+    "1/Конспекты/Коды/Реализация двусвязного списка.md",
+    "1/Конспекты/Коды/Реализация обхода ошибки ZeroDivisionError.md",
+    "1/Конспекты/Коды/Число палиндром.md",
+    "1/Конспекты/Коды/Число Фибоначчи на Free Pascal.md",
+    "1/Конспекты/Коды/TS Калькулятор сложения.md",
+    "1/images/Pasted image 20260521134427.png",
     "1/Конспекты/Люди/Алан Тьюринг.md",
+    "1/Конспекты/Введение в специальность/Правила оформления программных документов, выполненных печатным способом.md",
+    "2026-05-21.md",
+    "1/Конспекты/Основы ИТ/Docker.md",
+    "1/Конспекты/Информатика/Файлы  ̶Э̶п̶ш̶т̶е̶й̶н̶а̶.md",
     "1/Конспекты/Основы ИТ/Linux.md",
     "1/Конспекты/Рефлексия/12_03_26 Конф.W10.md",
     "1/Конспекты/Рефлексия/06_03_26 ИП 2 пара.md",
     "1/Конспекты/Рефлексия/02_04_26 ИП.md",
     "1/Конспекты/Конфигурация W10/WinGet.md",
     "1/Конспекты/Информатика/Архив.md",
-    "1/Конспекты/Индивидуальный проект/BoBiK Widgets/Ретроспектива.md",
     "1/images/Pasted image 20260406134850.png",
     "1/images/Pasted image 20260406134841.png",
-    "1/Конспекты/Python/Исключения.md",
-    "1/Конспекты/Настройка рабочего пространства.md",
-    "1/Конспекты/Основы ИТ/Создание первой виртуальной машины.md",
-    "1/Конспекты/Основы ИТ/Руководство по сборке ПК.md",
-    "1/Конспекты/Основы ИТ/Операционные системы (ОС).md",
     "1/Конспекты/Основы ИТ/Комплектующие.canvas",
-    "1/Конспекты/Люди/Джон Бэкус.md",
-    "1/Конспекты/Коды/Число Фибоначчи на Free Pascal.md",
-    "1/Конспекты/Коды/Реализация обхода ошибки ZeroDivisionError.md",
-    "1/Конспекты/Коды/Реализация двусвязного списка.md",
     "1/Конспекты/Коды",
-    "1/Конспекты/Информатика/Электронная таблица.md",
-    "1/Конспекты/Информатика/Формула Бэкуса-Наура.md",
-    "1/Конспекты/Информатика/Списки, графы и деревья.md",
-    "1/Конспекты/Индивидуальный проект/Расширение - умный трэкер времени.md",
     "1/Конспекты/Индивидуальный проект",
-    "1/Конспекты/Введение в специальность/Стандартизация и лицензирование Программных продуктов.md",
-    "1/Конспекты/Введение в специальность/История ЯП Pascal/История ЯП Pascal.md",
     "1/Конспекты/Введение в специальность/История ЯП Pascal",
-    "1/Конспекты/Python/Списки.md",
     "1/images/Pasted image 20251124140605.png",
     "1/images/Pasted image 20251124133907.png",
     "1/images/Pasted image 20251124133816.png",
     "1/images/Pasted image 20251124133242.png",
     "1/images/Pasted image 20251124133038.png",
     "1/images/Pasted image 20251107133727.png",
-    "1/images/Pasted image 20251106124214.png",
-    "1/images/Pasted image 20251031093455.png",
     "1/Конспекты/Основы ИТ/Untitled"
   ]
 }
