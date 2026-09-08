@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"736b5a8f061acd83","x":-310,"y":-240,"width":560,"height":460,"type":"group","label":"Иерархическая"},
+		{"id":"ffdcd9b7624219b5","type":"text","text":"  Академия","x":-100,"y":-220,"width":125,"height":60,"color":"1"},
+		{"id":"4e9baa250bc7cb9c","type":"text","text":"Зал 4","x":140,"y":-20,"width":80,"height":60},
+		{"id":"7eeb0062df5517ca","type":"text","text":"Зал 1","x":-280,"y":-20,"width":80,"height":60},
+		{"id":"ce0d7c1b50f9d1cb","type":"text","text":"Зал 3","x":0,"y":-20,"width":80,"height":60},
+		{"id":"ef716eee44a31607","type":"text","text":"Зал 2","x":-141,"y":-20,"width":82,"height":60},
+		{"id":"51052396e5e0e70b","type":"text","text":"21 ПК\n2 Курс РПО","x":-290,"y":120,"width":100,"height":80},
+		{"id":"808bc52ebd855250","type":"text","text":"2 ПК\n1 Курс РПО","x":-150,"y":120,"width":100,"height":80},
+		{"id":"a0154d069a05cf8d","type":"text","text":"15 ПК\n1 Курс ГД","x":-10,"y":120,"width":100,"height":80},
+		{"id":"f550fecf8de276dd","type":"text","text":"18 ПК\n3 Курс ГД","x":130,"y":120,"width":100,"height":80}
+	],
+	"edges":[
+		{"id":"86dd8818547e74d3","fromNode":"ffdcd9b7624219b5","fromSide":"bottom","toNode":"7eeb0062df5517ca","toSide":"top"},
+		{"id":"bb54958e9cc7d5f0","fromNode":"ffdcd9b7624219b5","fromSide":"bottom","toNode":"ef716eee44a31607","toSide":"top"},
+		{"id":"a4178c8c469f833e","fromNode":"ffdcd9b7624219b5","fromSide":"bottom","toNode":"ce0d7c1b50f9d1cb","toSide":"top"},
+		{"id":"1df9fe921a5ac976","fromNode":"ffdcd9b7624219b5","fromSide":"bottom","toNode":"4e9baa250bc7cb9c","toSide":"top"},
+		{"id":"f1bd45887bee97bd","fromNode":"7eeb0062df5517ca","fromSide":"bottom","toNode":"51052396e5e0e70b","toSide":"top"},
+		{"id":"e4b7c84faa88429a","fromNode":"ef716eee44a31607","fromSide":"bottom","toNode":"808bc52ebd855250","toSide":"top"},
+		{"id":"ea9dc2df6437484f","fromNode":"ce0d7c1b50f9d1cb","fromSide":"bottom","toNode":"a0154d069a05cf8d","toSide":"top"},
+		{"id":"7a717a3713d7c08a","fromNode":"4e9baa250bc7cb9c","fromSide":"bottom","toNode":"f550fecf8de276dd","toSide":"top"}
+	]
+}
