@@ -1,76 +1,41 @@
 {
   "main": {
-    "id": "40c838fc8b291e98",
+    "id": "cd790c5c62b27b9e",
     "type": "split",
     "children": [
       {
-        "id": "f792d49de5f9cc3d",
+        "id": "7aab1e50c3b53e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "39de7bae815853a3",
+            "id": "8dacf0f3e3e196cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Погрешности.md",
-=======
-                "file": "2/Комп Сети/Общие сведения о КС.md",
->>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
+                "file": "2/БД/10.09 ДЗ БД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Погрешности"
-=======
-              "title": "Общие сведения о КС"
-            }
-          },
-          {
-            "id": "12fbdc3630068efb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20260923101858.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260923101858"
-            }
-          },
-          {
-            "id": "e08de17937cce5ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2/Комп Сети/ДЗ 23.09 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ДЗ 23.09 2"
->>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
+              "title": "10.09 ДЗ БД"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a7078a9713745abf",
+    "id": "bea9904ddf29e775",
     "type": "split",
     "children": [
       {
-        "id": "60c77abfc791ab7f",
+        "id": "b2d9d573ea12d4d0",
         "type": "tabs",
         "children": [
           {
-            "id": "639c84b72f88b717",
+            "id": "f834fa134ee15c4f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +50,7 @@
             }
           },
           {
-            "id": "380dadb8733b36d2",
+            "id": "048d2656d6921a53",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,7 +67,7 @@
             }
           },
           {
-            "id": "d9ccb5addec7edfa",
+            "id": "ed9389718323902c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "bae7fa2f45fdafc4",
+    "id": "4571455b2a93c886",
     "type": "split",
     "children": [
       {
-        "id": "5b62c30f7864cf64",
+        "id": "d881683a583cbbda",
         "type": "tabs",
         "children": [
           {
-            "id": "d082f8a9a97535ee",
+            "id": "23a8fd4ba76f90b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2/Комп Сети/Общие сведения о КС.md",
+                "file": "2/БД/10.09 ДЗ БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +113,12 @@
             }
           },
           {
-            "id": "df3c851be4b11b51",
+            "id": "385c38ae8ae2b580",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2/Комп Сети/Общие сведения о КС.md",
+                "file": "2/БД/10.09 ДЗ БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +127,7 @@
             }
           },
           {
-            "id": "e6dd04ee40153f29",
+            "id": "ccd7d849eba20f9f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,16 +142,12 @@
             }
           },
           {
-            "id": "ca0c0dc77fcb2b4e",
+            "id": "2a36e91f257e885e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Погрешности.md",
-=======
-                "file": "2/Комп Сети/Общие сведения о КС.md",
->>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
+                "file": "2/БД/10.09 ДЗ БД.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,12 +160,8 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 200
-=======
     "width": 300,
     "collapsed": true
->>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,72 +174,8 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e08de17937cce5ab",
+  "active": "8dacf0f3e3e196cb",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "2/БД/08.09 ДЗ БД.md",
-    "Погрешности.md",
-    "Без названия.md",
-    "Без названия",
-    "2/БД/Основные понятия БД.md",
-    "2/Информационные технологии/LibreOffice/Практическая 03.09.md",
-    "2/БД/Реляционная алгебра.md",
-    "2/Информационные технологии/LibreOffice",
-    "2/Информационные технологии/Без названия.md",
-    "2/Информационные технологии",
-    "images/Pasted image 20260910115135.png",
-    "Новая таблица.xlsx",
-    "Canvas/Иерархическая БД.canvas",
-    "Canvas",
-    "images/Диаграмма без названия.drawio(5).png",
-    "images/Диаграмма без названия.drawio(6).png",
-    "images/Диаграмма без названия.drawio(4).png",
-    "1/Конспекты/Основы ИТ/Комплектующие.canvas",
-    "Без названия.base",
-    "images/Диаграмма без названия.drawio(3).png",
-    "images/Диаграмма без названия.drawio(2).png",
-    "1/1/Билеты/Ответы на литру.md",
-    "1/1/Билеты/Экзамен по физике — ответы.md",
-    "1/1/Билеты/Ответы на билеты по физике.md",
-    "1/1/Билеты/Ответы на билеты по физике(1).md",
-    "1/1/Билеты/Билеты физика.md",
-    "images/Диаграмма без названия.drawio(1).png",
-    "images/Диаграмма без названия.drawio.png",
-    "2/C++/C++.md",
-    "2/БД",
-    "1/Конспекты/Конфигурация W10/SSH.md",
-    "2/C++",
-    "2",
-    "images/Pasted image 20260625233852.png",
-    "1/Конспекты/Конфигурация W10/RFB and TightVNC.md",
-    "1/Конспекты/Конфигурация W10/RDP and mstsc.md",
-    "1/1/Билеты",
-    "1/1/Билеты/literature_tickets_answers.md",
-    "gemini-code-1782330530821.md",
-    "images/Pasted image 20260615192553.png",
-    "1/Конспекты/Люди/Терри Дэвис.md",
-    "1/Конспекты/Люди/Алексей Пажитнов.md",
-    "1/Конспекты/Основы ИТ/CI and CD.md",
-    "1/Конспекты/Информатика/Основы Деплоя, Docker, kubernetes.md",
-    "1/Конспекты/Python/Работаем со строками.md",
-    "1/Конспекты/Люди/Фил Кац.md",
-    "1/Конспекты/Люди/Джон Бэкус.md",
-    "1/Конспекты/Коды/Без названия.md"
-=======
-    "2/Комп Сети/Общие сведения о КС.md",
-    "2/Комп Сети/ДЗ 23.09 2.md",
-    "images/Pasted image 20260923094317.png",
-    "images/Pasted image 20260923101858.png",
-    "images/Pasted image 20260923101850.png",
-    "images/Pasted image 20260923101842.png",
-    "images/Pasted image 20260923101830.png",
-    "images/Pasted image 20260923101819.png",
-    "images/Pasted image 20260923101804.png",
-    "images/Pasted image 20260923101740.png",
-    "images/Pasted image 20260923101244.png",
-    "images/Pasted image 20260923094824.png",
-    "2/БД/08.09 ДЗ БД.md",
-    "2/Комп Сети"
->>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
+    "2/БД/10.09 ДЗ БД.md"
   ]
 }
