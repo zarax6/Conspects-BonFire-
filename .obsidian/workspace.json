@@ -1,41 +1,76 @@
 {
   "main": {
-    "id": "773617696912b10d",
+    "id": "40c838fc8b291e98",
     "type": "split",
     "children": [
       {
-        "id": "686541ef56392ed4",
+        "id": "f792d49de5f9cc3d",
         "type": "tabs",
         "children": [
           {
-            "id": "79fcc1cad77ba10e",
+            "id": "39de7bae815853a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Погрешности.md",
+=======
+                "file": "2/Комп Сети/Общие сведения о КС.md",
+>>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Погрешности"
+=======
+              "title": "Общие сведения о КС"
+            }
+          },
+          {
+            "id": "12fbdc3630068efb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20260923101858.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260923101858"
+            }
+          },
+          {
+            "id": "e08de17937cce5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2/Комп Сети/ДЗ 23.09 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ДЗ 23.09 2"
+>>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dbba643b611f736c",
+    "id": "a7078a9713745abf",
     "type": "split",
     "children": [
       {
-        "id": "2b8fa0c8d1aed51e",
+        "id": "60c77abfc791ab7f",
         "type": "tabs",
         "children": [
           {
-            "id": "deef7c77c53bad25",
+            "id": "639c84b72f88b717",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +85,12 @@
             }
           },
           {
-            "id": "9c24f6d6a12d7fb7",
+            "id": "380dadb8733b36d2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "canvas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +102,14 @@
             }
           },
           {
-            "id": "72859008bb27ba73",
+            "id": "d9ccb5addec7edfa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
@@ -80,33 +118,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f8bef64de340bcb1",
+    "id": "bae7fa2f45fdafc4",
     "type": "split",
     "children": [
       {
-        "id": "30367b1aa1d9a4d8",
+        "id": "5b62c30f7864cf64",
         "type": "tabs",
         "children": [
           {
-            "id": "384510f946d06cc9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "e85d0a09baed5a36",
+            "id": "d082f8a9a97535ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1/Конспекты/Люди/Терри Дэвис.md",
+                "file": "2/Комп Сети/Общие сведения о КС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +144,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Терри Дэвис"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "35403258a394ea0f",
+            "id": "df3c851be4b11b51",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1/Конспекты/Люди/Терри Дэвис.md",
+                "file": "2/Комп Сети/Общие сведения о КС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Терри Дэвис"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "61b5b49ccafcd9d8",
+            "id": "e6dd04ee40153f29",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,12 +177,16 @@
             }
           },
           {
-            "id": "565d97e1888b0a33",
+            "id": "ca0c0dc77fcb2b4e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Погрешности.md",
+=======
+                "file": "2/Комп Сети/Общие сведения о КС.md",
+>>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,41 +194,32 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
-          },
-          {
-            "id": "bef3a03dbbb02eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2/БД/Основные понятия БД.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основные понятия БД"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200
+=======
+    "width": 300,
+    "collapsed": true
+>>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "daily-notes:Сегодняшняя заметка": false
+      "bases:Создать новую базу": false
     }
   },
-  "active": "79fcc1cad77ba10e",
+  "active": "e08de17937cce5ab",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "2/БД/08.09 ДЗ БД.md",
     "Погрешности.md",
     "Без названия.md",
@@ -245,5 +268,21 @@
     "1/Конспекты/Люди/Фил Кац.md",
     "1/Конспекты/Люди/Джон Бэкус.md",
     "1/Конспекты/Коды/Без названия.md"
+=======
+    "2/Комп Сети/Общие сведения о КС.md",
+    "2/Комп Сети/ДЗ 23.09 2.md",
+    "images/Pasted image 20260923094317.png",
+    "images/Pasted image 20260923101858.png",
+    "images/Pasted image 20260923101850.png",
+    "images/Pasted image 20260923101842.png",
+    "images/Pasted image 20260923101830.png",
+    "images/Pasted image 20260923101819.png",
+    "images/Pasted image 20260923101804.png",
+    "images/Pasted image 20260923101740.png",
+    "images/Pasted image 20260923101244.png",
+    "images/Pasted image 20260923094824.png",
+    "2/БД/08.09 ДЗ БД.md",
+    "2/Комп Сети"
+>>>>>>> 502f0e4977ec6e4df8b3f02985cde7cec1ab6e8d
   ]
 }
