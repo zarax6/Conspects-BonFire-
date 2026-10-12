@@ -1,0 +1,252 @@
+<<<<<<< Updated upstream
+=======
+{
+  "main": {
+    "id": "773617696912b10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "686541ef56392ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79fcc1cad77ba10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2/Компьютерные сети/Общие сведения о КС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общие сведения о КС"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbba643b611f736c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b8fa0c8d1aed51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deef7c77c53bad25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9c24f6d6a12d7fb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "canvas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "72859008bb27ba73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f8bef64de340bcb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "30367b1aa1d9a4d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384510f946d06cc9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "e85d0a09baed5a36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1/Конспекты/Люди/Терри Дэвис.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Терри Дэвис"
+            }
+          },
+          {
+            "id": "35403258a394ea0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1/Конспекты/Люди/Терри Дэвис.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Терри Дэвис"
+            }
+          },
+          {
+            "id": "61b5b49ccafcd9d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "565d97e1888b0a33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2/Компьютерные сети/Общие сведения о КС.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "bef3a03dbbb02eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2/БД/Основные понятия БД.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основные понятия БД"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 514.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "daily-notes:Сегодняшняя заметка": false
+    }
+  },
+  "active": "79fcc1cad77ba10e",
+  "lastOpenFiles": [
+    "2/Без названия.md",
+    "2/Компьютерные сети/Общие сведения о КС.md",
+    "2/Компьютерные сети",
+    "Canvas/Иерархическая БД.canvas",
+    "2/БД/Основные этапы проектирования БД.md",
+    "2/Численные методы/Погрешности, Классификация погрешностей.md",
+    "2/Информационные технологии/LibreOffice/Практическая 03.09.md",
+    "2/Численные методы",
+    "2/БД/Реляционная алгебра.md",
+    "2/Информационные технологии/LibreOffice",
+    "2/Информационные технологии/Без названия.md",
+    "2/Информационные технологии",
+    "2/БД/Основные понятия БД.md",
+    "images/Pasted image 20260910115135.png",
+    "Новая таблица.xlsx",
+    "Canvas",
+    "images/Диаграмма без названия.drawio(5).png",
+    "images/Диаграмма без названия.drawio(6).png",
+    "images/Диаграмма без названия.drawio(4).png",
+    "1/Конспекты/Основы ИТ/Комплектующие.canvas",
+    "Без названия.base",
+    "images/Диаграмма без названия.drawio(3).png",
+    "images/Диаграмма без названия.drawio(2).png",
+    "1/1/Билеты/Ответы на литру.md",
+    "1/1/Билеты/Экзамен по физике — ответы.md",
+    "1/1/Билеты/Ответы на билеты по физике.md",
+    "1/1/Билеты/Ответы на билеты по физике(1).md",
+    "1/1/Билеты/Билеты физика.md",
+    "images/Диаграмма без названия.drawio(1).png",
+    "images/Диаграмма без названия.drawio.png",
+    "2/C++/C++.md",
+    "2/БД",
+    "1/Конспекты/Конфигурация W10/SSH.md",
+    "2/C++",
+    "2",
+    "images/Pasted image 20260625233852.png",
+    "1/Конспекты/Конфигурация W10/RFB and TightVNC.md",
+    "1/Конспекты/Конфигурация W10/RDP and mstsc.md",
+    "1/1/Билеты/literature_tickets_answers.md",
+    "gemini-code-1782330530821.md",
+    "images/Pasted image 20260615192553.png",
+    "1/Конспекты/Люди/Терри Дэвис.md",
+    "1/Конспекты/Люди/Алексей Пажитнов.md",
+    "1/Конспекты/Основы ИТ/CI and CD.md",
+    "1/Конспекты/Информатика/Основы Деплоя, Docker, kubernetes.md",
+    "1/Конспекты/Python/Работаем со строками.md",
+    "1/Конспекты/Люди/Фил Кац.md",
+    "1/Конспекты/Люди/Джон Бэкус.md"
+  ]
+}
+>>>>>>> Stashed changes
