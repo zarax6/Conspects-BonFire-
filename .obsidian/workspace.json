@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2/БД/HAVING.md",
+                "file": "2/C++/Функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HAVING"
+              "title": "Функции"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "54aadc3525c70ab1",
   "lastOpenFiles": [
-    "2/БД/GROUP BY.md",
     "2/БД/HAVING.md",
+    "2/C++/Функции.md",
+    "2/БД/GROUP BY.md",
     "2/C++/ДЗ 2_11.md"
   ]
 }
