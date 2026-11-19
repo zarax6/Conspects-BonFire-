@@ -1,5 +1,6 @@
 {
   "cssTheme": "Tokyo Night",
   "accentColor": "#4c474d",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
