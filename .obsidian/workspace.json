@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "cd19ef925aa58ac3",
+    "id": "37a0db704c2d4ed7",
     "type": "split",
     "children": [
       {
-        "id": "449a7ea14c7c978d",
+        "id": "eb8aee6ed073d11b",
         "type": "tabs",
         "children": [
           {
-            "id": "086819d6e625b363",
+            "id": "010419b3bc97d3af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/firefox_lYxJw3wVPC.png"
+                "file": "2/РПМ/Билет 1 Северюхин.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "firefox_lYxJw3wVPC"
+              "icon": "lucide-file",
+              "title": "Билет 1 Северюхин"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea59a62ab1c5a333",
+    "id": "e5203ae707f81510",
     "type": "split",
     "children": [
       {
-        "id": "4beec0d098b5aadc",
+        "id": "0e4a5cb124b98914",
         "type": "tabs",
         "children": [
           {
-            "id": "824979e8c4ee30cd",
+            "id": "a4281a35f09b773b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +50,7 @@
             }
           },
           {
-            "id": "125fd5455872d48b",
+            "id": "5cb14a6cc1d91309",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +67,7 @@
             }
           },
           {
-            "id": "34b6b2d9bb8808ca",
+            "id": "ead7e16c983ed83f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "16552c2a1b74fa0c",
+    "id": "fc4961943db5930f",
     "type": "split",
     "children": [
       {
-        "id": "c130f2842e5278ac",
+        "id": "df3e609520634dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "def24ee5e773cd8a",
+            "id": "26e286d45152720b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2/C++/ДЗ 2_11.md",
+                "file": "2/РПМ/Билет 1 Северюхин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,12 +113,12 @@
             }
           },
           {
-            "id": "a0e4e85292bb1f74",
+            "id": "83b2d29aea0db94b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2/C++/ДЗ 2_11.md",
+                "file": "2/РПМ/Билет 1 Северюхин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -125,7 +127,7 @@
             }
           },
           {
-            "id": "b43e995e9da16948",
+            "id": "555f8f07edce6ac0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +142,12 @@
             }
           },
           {
-            "id": "7cf8ac5eaba8021f",
+            "id": "b2f21562af39836e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2/C++/ДЗ 2_11.md",
+                "file": "2/РПМ/Билет 1 Северюхин.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,45 +174,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "824979e8c4ee30cd",
+  "active": "010419b3bc97d3af",
   "lastOpenFiles": [
-    "images/firefox_lYxJw3wVPC.png",
-    "images/firefox_qygA3kgWgn.png",
-    "images/Pasted image 20261119235906.png",
-    "images/Pasted image 20261119235041.png",
-    "images/Pasted image 20261119234634.png",
-    "images/Pasted image 20261119170256.png",
-    "images/Pasted image 20261119153754.png",
-    "images/Pasted image 20261119115923.png",
-    "images/Pasted image 20261117190422.png",
-    "images/Pasted image 20261116140532.png",
-    "images/Pasted image 20261115073930.png",
-    "2/БД/Шпора.md",
-    "file:C:/Users/BxnF1re/AppData/Local/Temp/ec0d3c5c-6390-471c-8237-77f1a1b90e7a_workspace-a63b1577-83e9-49d7-8240-215f742ace6b.tar.e7a/download/README.md",
-    "2/БД/Добавление, изменение, удаление атрибута.md",
-    "2/БД/ДЗ Лувр ч.1.md",
-    "2/БД/ДЗ Лувр 2.md",
-    "2/БД/ДЗ 28.10.md",
-    "2/БД/ДЗ 13.10.md",
-    "2/БД/ДЗ 12.11 БД.md",
-    "2/БД/ДЗ 12.11.md",
-    "2/БД/ДЗ 6.11 HAVING.md",
-    "2/БД/ДЗ 6.11 повторение.md",
-    "2/БД/ДЗ 6.11 повтор.md",
-    "2/БД/ДЗ 6.11.md",
-    "2/БД/Без названия.md",
-    "2/БД/База SQL.md",
-    "2/БД/10.09 ДЗ БД.md",
-    "2/БД/08.09 ДЗ БД.md",
-    "2/БД/Логич. программирование, ограничения в SQL.md",
-    "2/БД/Нормализация данных.md",
-    "2/БД/Основные понятия БД.md",
-    "2/БД/Основные этапы проектирования БД.md",
-    "2/БД/Реляционная алгебра.md",
-    "2/БД/Структура запроса.md",
-    "2/БД/CASE.md",
-    "2/БД/SQL.md",
-    "2/ОС и среды",
+    "Pasted image 20261125153814.png",
+    "Pasted image 20261125152515.png",
+    "Pasted image 20261125145347.png",
+    "2/РПМ/Билет 1 Северюхин.md",
     "2/РПМ"
   ]
 }
